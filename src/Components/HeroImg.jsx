@@ -11,7 +11,7 @@ export default function HeroImg() {
         <div className='content'>
           <h1>Software Developer</h1>
           <div>
-            <Link to='/project' className='btn'>Projects</Link>
+            <Link to='/portfolio/project' className='btn'>Projects</Link>
             <NavLink to="https://drive.google.com/file/d/18YJ3IC6-mDrD1jqVdwBElMYiNuqny50M/view?usp=sharing"className='btn'>Resume</NavLink>        
           </div>
         </div>

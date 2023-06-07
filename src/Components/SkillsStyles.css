@@ -46,7 +46,7 @@
   display: flex;
   gap: 1rem;
 }
-@media screen and (max-width:640px) {
+@media screen and (max-width:740px) {
     .experience_container {
         max-width: 90%;
         margin: auto;
