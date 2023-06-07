@@ -10,6 +10,7 @@ export default function Home() {
       <HeroImg></HeroImg>
       <Work></Work>
       <Footer></Footer>
+      
     </div>
   )
 }

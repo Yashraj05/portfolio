@@ -1,6 +1,5 @@
 import './WorkCardStyles.css';
 import React from 'react';
-import Amazon from '../assets/amazon-clone.png'
 import { NavLink } from 'react-router-dom';
 
 
